@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey Everyone! I'm Aditya Pandey! 👋<br> <br>👨🏻‍🎓 Final Year B.Tech Student.<br>💻 Computer Science Major.<br>🖥 Full Stack Developer.
+👋 Hey Everyone! I'm Shyamansh Sharma! 👋<br> <br>👨🏻‍🎓 Final Year B.Tech Student.<br>💻 Computer Science Major.<br>🖥 Full Stack Developer.
 
 
 ## 🌐 Socials:
