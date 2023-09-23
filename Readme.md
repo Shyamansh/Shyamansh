@@ -42,6 +42,16 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 
 
+## GitHub Stats
+
+<div align=center>
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Shyamansh&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+    <img height=200 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shyamansh&layout=compact&langs_count=8&theme=tokyonight"/>
+    </span></a>
+</div>
+
+
+
 ##
 <p align="center"> 
   Visitor count<br>
